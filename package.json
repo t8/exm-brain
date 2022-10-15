@@ -9,7 +9,10 @@
     "prettier": "^2.7.1"
   },
   "dependencies": {
+    "@execution-machine/cli": "^0.1.42",
+    "@execution-machine/sdk": "^0.1.42",
     "brain.js": "^2.0.0-beta.15",
+    "global": "^4.4.0",
     "gpu.js": "^2.15.2",
     "replace-in-file": "^6.3.5",
     "smartweave": "^0.4.49"
